@@ -2,7 +2,7 @@ local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/
 
 local Window = Fluent:CreateWindow({
     Title = "Game Selection",
-    SubTitle = "Goiaba.lua Hub",
+    SubTitle = "Nuts Hub",
     TabWidth = 30,
     Size = UDim2.fromOffset(450, 300),
     Acrylic = true,
